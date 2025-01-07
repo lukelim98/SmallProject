@@ -70,3 +70,5 @@ if __name__ == "__main__":
         # Print the answer returned by the QA system
         print('Answer: ')
         print(answer['result'])
+        
+        
